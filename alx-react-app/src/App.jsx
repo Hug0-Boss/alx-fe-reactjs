@@ -39,9 +39,9 @@ function App() {
 
 
 
-    <UserProfile name = "Alice"/>
-    <UserProfile age = "25"/>
-    <UserProfile bio = "Loves hiking and photography"/>
+    <UserProfile name= "Alice"/>
+    <UserProfile age= "25"/>
+    <UserProfile bio= "Loves hiking and photography"/>
     </>
   )
 }
