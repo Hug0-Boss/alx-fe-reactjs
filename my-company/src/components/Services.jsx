@@ -6,9 +6,9 @@ function Services() {
         <div style={{ padding: '20px' }}>
             <h1>Our Services</h1>
             <ul>
-                <li>Technology Consulting</li>
-                <li>Market Analysis</li>
-                <li>Product Development</li>
+                <li style={{listStyle: 'none'}}>Technology Consulting</li>
+                <li style={{listStyle: 'none'}}>Market Analysis</li>
+                <li style={{listStyle: 'none'}}>Product Development</li>
             </ul>
         </div>
     );
